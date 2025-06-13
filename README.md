@@ -1,5 +1,26 @@
 ## Repositório para meu estudos na linguagem de programação Java. ☕
 
+## 🎯 Objetivos de Aprendizado
+
+- Dominar a sintaxe e os conceitos fundamentais do Java
+- Compreender os pilares da programação orientada a objetos
+- Praticar algoritmos e estrutura de dados
+- Conhecer frameworks e bibliotecas úteis no ecossistema Java
+
+## 📖 Referências
+
+- [Curso de Java - Gustavo Guanabara](https://youtu.be/sTX0UEplF54?si=SmD7WId_1ZGLoyzd)
+- [Curso de Java Básico Módulo 1 - Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+- [Curso de Java Básico Módulo 2 - Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI)
+- [Curso de Estrutura de Dados e Algoritmos com Java - Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBrgumpzz-l8kFMw2DLERdxi)
+- [Curso de Java Gustavo Guanabara](https://youtu.be/sTX0UEplF54?si=SmD7WId_1ZGLoyzd)
+- [Maratona Java Virado no Jiraya - DevDojo](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+- [Documentação Oficial do Java](https://docs.oracle.com/en/java/)
+- [geeksforgeeks - Java](https://www.geeksforgeeks.org/java/java/)
+- [W3Schools - Java](https://www.w3schools.com/java/)
+
+---
+
 ![James Gosling](https://github.com/user-attachments/assets/50c4c4f9-1a8c-4044-931c-3d0364cf8c3c)
 
 ### História do Java
