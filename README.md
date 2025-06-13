@@ -1,4 +1,4 @@
-## Repositório para meu estudos na linguagem de programação Java.
+## Repositório para meu estudos na linguagem de programação Java. ☕
 
 ![James Gosling](https://github.com/user-attachments/assets/50c4c4f9-1a8c-4044-931c-3d0364cf8c3c)
 
