@@ -1,4 +1,4 @@
-## Repositório para meu estudos na linguagem de programação Java
+## Repositório para meu estudos na linguagem de programação Java.
 
 ![James Gosling](https://github.com/user-attachments/assets/50c4c4f9-1a8c-4044-931c-3d0364cf8c3c)
 
@@ -25,3 +25,38 @@ Entretanto, o estouro da internet aconteceu e rapidamente uma grande rede intera
 Desde seu lançamento, em maio de 1995, a plataforma Java foi adotada mais rapidamente do que qualquer outra linguagem de programação na história da computação. Em 2004 Java atingiu a marca de 3 milhões de desenvolvedores em todo mundo. Java continuou crescendo e hoje é uma referência no mercado de desenvolvimento de software. Java tornou-se popular pelo seu uso na internet e hoje possui seu ambiente de execução presente em navegadores, mainframes, sistemas operacionais, celulares, palmtops, cartões inteligentes etc.
 </p>
 <div>
+
+---
+
+## Fundamentos da linguagem Java.
+
+<div align="justify">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+</div>
